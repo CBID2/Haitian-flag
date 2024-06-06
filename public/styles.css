@@ -9,13 +9,17 @@ body {
   }
   
   .flag-color-one {
-    height: 100px;
-    background-color: red;
-    flex: 1;
+    background-color: #0053a0; /* Haitian flag blue */
+    height: 100px; /* Adjust the height as needed */
+  }
+  
+  .symbol {
+    background-color: white;
+    height: 50px; /* Adjust the height as needed */
   }
   
   .flag-color-two {
-    height: 100px;
-    background-color: blue;
-    flex: 1;
+    background-color: #ce1126; /* Haitian flag red */
+    height: 100px; /* Adjust the height as needed */
   }
+  
