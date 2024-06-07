@@ -6,33 +6,64 @@ body {
     align-items: center;
     min-height: 70vh;
     width: 100vw;
-  }
-  .flag-container {
-    display: flex;
-    flex-direction: column;
-    height: 200px; /* Adjust the height as needed */
-    width: 300px; /* Adjust the width as needed */
-    justify-content: center; /* Center the flag horizontally */
-  }
-  
-  .flag-color-one {
-    background-color: #00209f; /* Color of current haitian flag */
-    height: 100px; /* Adjust the height as needed */
-  }
-  
-  .coat-of-arms {
-    background-color: white;
-    height: 50px; /* Adjust the height as needed */
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Haiti-coat-of-arms.svg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 100%;
-  }
-  
-  .flag-color-two {
-    background-color: #ce1126; /* Haitian flag red */
-    height: 100px; /* Adjust the height as needed */
+    .flag-container {
+      display: flex;
+      flex-direction: column;
+      height: 200px;
+      width: 300px;
+      margin-bottom: 20px;
+    }
+    
+    /* Code for 1964 flag */
+    .flag-1964 .flag-1964-color-one {
+      background-color: black;
+      flex: 1;
+    }
+    
+    .flag-1964 .flag-1964-color-two {
+      background-color: #ce1126;
+      flex: 1;
+    }
+    
+    /* Code for current flag */
+    .flag-current .flag-current-color-one {
+      background-color: #0053a0;
+      flex: 1;
+    }
+    
+    .flag-current .flag-current-color-two {
+      background-color: #ce1126;
+      flex: 1;
+    }
+    
+    /* Coat-of-arms styling for current flag */
+    .coat-of-arms {
+        background-color: white;
+        height: 50px; /* Adjust the height as needed */
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Haiti-coat-of-arms.svg");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+      }
+    }
+    /* Coat of arms styling for 1964-1986 flag */
+    .coat-of-arms-1964 {
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d2/Coat_of_arms_of_Haiti_%281964-1986%29.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 50px;
+    }
+    
+    /* Coat of arms styling for current flag */
+    .coat-of-arms-current {
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/56/Coat_of_arms_of_Haiti.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 50px;
+    }
   }
   
   .flag-slogan{
