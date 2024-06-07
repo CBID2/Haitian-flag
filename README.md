@@ -20,3 +20,5 @@ You can see the final result [here](https://haitian-flag.vercel.app/).
 
 - [Coat of arms of Haiti.svg by FXXXderivative work: Thommy](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Haiti_(1964-1986).svg), Public domain, via Wikimedia Commons
 - [Lokal_Profil and Myriam Thyes](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Haiti.svg), Public domain, via Wikimedia Commons
+- [Flag and Coat of Arms](https://www.haiti.org/flag-and-coat-of-arms/)
+- [The History of Haitian Flag Day](https://haitianflag.tripod.com/id1.html)
