@@ -7,6 +7,13 @@ body {
     min-height: 70vh;
     width: 100vw;
   }
+  .flag-container {
+    display: flex;
+    flex-direction: column;
+    height: 200px; /* Adjust the height as needed */
+    width: 300px; /* Adjust the width as needed */
+    justify-content: center; /* Center the flag horizontally */
+  }
   
   .flag-color-one {
     background-color: #0053a0; /* Haitian flag blue */
