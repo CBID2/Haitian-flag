@@ -37,8 +37,8 @@ body {
     }
     
     /* Coat-of-arms styling for current flag */
-    .coat-of-arms {
-        background-color: white;
+    .coat-of-arms-current {
+         background-color: #0053a0;
         height: 50px; /* Adjust the height as needed */
         background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Haiti-coat-of-arms.svg");
         background-size: contain;
@@ -53,6 +53,7 @@ body {
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
+      background-color: black;
       height: 50px;
     }
     
