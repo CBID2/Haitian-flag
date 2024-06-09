@@ -8,7 +8,7 @@ The goal is to draw what comes to my mind  when it comes to the month of June.
 ## Inspiration
 
 In the U.S., June is Caribbean Heritage month. During this time, I noticed that Haiti is often underrepresented, so I decided to create two versions of the country's flag to educate others about its history.
-<!-- To learn more about our creation process, check out [@CBID2's post on Dev.to](https://dev.to/cbid2/lets-go-camping-4g02). -->
+To learn more about our creation process, check out [my post on Dev.to](https://dev.to/cbid2/two-flags-one-country-same-message-6d7). 
 
 ## The Result
 
