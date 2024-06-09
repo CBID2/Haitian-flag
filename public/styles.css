@@ -36,16 +36,6 @@ body {
       flex: 1;
     }
     
-    /* Coat-of-arms styling for current flag */
-    .coat-of-arms-current {
-         background-color: #0053a0;
-        height: 50px; /* Adjust the height as needed */
-        background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Haiti-coat-of-arms.svg");
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 100%;
-      }
     }
     /* Coat of arms styling for 1964-1986 flag */
     .coat-of-arms-1964 {
